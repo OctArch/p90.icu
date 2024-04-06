@@ -1630,7 +1630,7 @@ hexo-neat@^1.0.9:
 
 hexo-p90-icu-component@^1.0.1:
   version "1.0.4"
-  resolved "https://registry.yarnpkg.com/hexo-p90-icu-component/-/hexo-p90-icu-component-1.0.4.tgz#9aaeecb58a739bdbd50d3168d9c3fecd0106d9b9"
+  resolved "https://registry.npmjs.org/hexo-p90-icu-component/-/hexo-p90-icu-component-1.0.4.tgz"
   integrity sha512-dYOK2oSapu5t2JrcHvXWYWxg6pi7Wkxs3x0Oo06papjsAVJ44iCWvN423xA7OdTQDSmPxEsmkts/5cfC2IPGWg==
 
 hexo-pagination@3.0.0:
@@ -2500,9 +2500,9 @@ mv@~2:
     rimraf "~2.4.0"
 
 nan@^2.12.1:
-  version "2.18.0"
-  resolved "https://registry.yarnpkg.com/nan/-/nan-2.18.0.tgz#26a6faae7ffbeb293a39660e88a76b82e30b7554"
-  integrity sha512-W7tfG7vMOGtD30sHoZSSc/JVYiyDPEyQVso/Zz+/uQd0B0L46gtC+pHha5FFMRpil6fm/AoEcRWyOVi4+E/f8w==
+  version "2.19.0"
+  resolved "https://registry.yarnpkg.com/nan/-/nan-2.19.0.tgz#bb58122ad55a6c5bc973303908d5b16cfdd5a8c0"
+  integrity sha512-nO1xXxfh/RWNxfd/XPfbIfFk5vgLsAxUR9y5O0cHMJu/AW9U95JLXqthYHjEp+8gQ5p96K9jUp8nbVOxCdRbtw==
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -2758,6 +2758,11 @@ posix-character-classes@^0.1.0:
   version "0.1.1"
   resolved "https://registry.npmjs.org/posix-character-classes/-/posix-character-classes-0.1.1.tgz"
   integrity sha512-xTgYBc3fuo7Yt7JbiuFxSYGToMoz8fLoE6TC9Wx1P/u+LfeThMOAqmuyECnlBaaJb+u1m9hHiXUEtwW4OzfUJg==
+
+prettier@^3.2.5:
+  version "3.2.5"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.2.5.tgz#e52bc3090586e824964a8813b09aba6233b28368"
+  integrity sha512-3/GWa9aOC0YeD7LUfvOG2NiDyhOWRvt1k+rcKhOuYnMY24iiCphgneUfJDyFXd6rZCAnuLBv6UeAULtrhT/F4A==
 
 pretty-hrtime@^1.0.3:
   version "1.0.3"
