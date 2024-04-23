@@ -428,13 +428,14 @@ open_graph:
 footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
-  content: >-
-    ©2024 P90.ICU .All Rights Reserved
+  content: |-
+    Copyright © 2024 P90.ICU all rights reserved.
     </br>
     本站与 <b>Valve Corporation</b> 以及 <b>完美世界</b> 没有从属关系。</br>
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
-    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+    <a href="https://github.com/imjinglan/hexo-theme-fluidee" target="_blank" rel="nofollow noopener"><span>FluidEE</span></a><br \>
+    <i class="iconfont icon-git"></i> Version: {{GIT_VERSION}}<br \>
 
   # 展示网站的 PV、UV 统计数
   # Display website PV and UV statistics

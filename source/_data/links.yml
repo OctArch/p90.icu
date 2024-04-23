@@ -16,9 +16,10 @@ items:
       title: "Yurik的小屋",
       intro: "鲸落于海，星沉于洼",
       link: "https://yurik.cafe/",
-      avatar: "https://unpkg.com/yurik-static@1.0.6/favicon/v2/icon@1024px.jpg",
+      avatar: "https://yurik.cafe/favicon/v2/icon@1024px.jpg",
     }
 
 onerror_avatar: /img/avatar.png # 头像错误时加载默认头像
 
-more_content: True # 是否启用更多信息 , 如友链添加指南等
+custom:
+  enable: true # 是否启用更多信息 , 如友链添加指南等

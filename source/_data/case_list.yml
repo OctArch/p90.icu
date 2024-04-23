@@ -1,0 +1,27 @@
+items:
+  - {
+      title: "RushB 镜像站",
+      intro: "您的贡献世人皆知，CNCS永远记得您",
+      link: "https://www.rushb.net.cn/",
+      avatar: "https://img.ousetonae.com/other/RUSHB.jpg",
+    }
+
+  - {
+      title: "CS-News",
+      intro: "反恐精英中文新闻资讯网站",
+      link: "https://www.cs-news.cn/",
+      avatar: "/img/friends_avatar/cs-news.png",
+    }
+  - {
+      title: "Yurik的小屋",
+      intro: "鲸落于海，星沉于洼",
+      link: "https://yurik.cafe/",
+      avatar: "https://unpkg.com/yurik-static@1.0.6/favicon/v2/icon@1024px.jpg",
+    }
+
+onerror_avatar: /img/avatar.png # 头像错误时加载默认头像
+
+more_content: True # 是否启用更多信息 , 如友链添加指南等
+
+custom:
+  enable: true # 是否启用更多信息 , 如友链添加指南等

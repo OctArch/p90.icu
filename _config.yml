@@ -11,7 +11,7 @@ author: P90.ICU
 timezone: "Asia/Shanghai"
 
 language: zh-CN
-theme: fluid
+theme: fluidee
 
 marked:
   prependRoot: true

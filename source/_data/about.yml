@@ -9,3 +9,6 @@ intro: "CSGO/CS2/CS资讯站"
 # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/`class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
 icons:
   - { class: "iconfont icon-rss", link: "/feed.xml", tip: "RSS Feed" }
+
+custom:
+  enable: true
