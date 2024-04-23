@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://p90.icu/2024/cs2-update-2024-4-16/</loc>
-    
-    <lastmod>2024-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://p90.icu/2024/cs2-update-2024-4-3/</loc>
-    
-    <lastmod>2024-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://p90.icu/2024/m0nesy-pro-settings/</loc>
-    
-    <lastmod>2024-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://p90.icu/about/index.html</loc>
     
     <lastmod>2024-04-23</lastmod>
@@ -65,7 +38,25 @@
   </url>
   
   <url>
-    <loc>https://p90.icu/2024/cs2-update-2024-3-13/</loc>
+    <loc>https://p90.icu/2024/cs2-update-2024-4-16/</loc>
+    
+    <lastmod>2024-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://p90.icu/2024/cs2-update-2024-4-3/</loc>
+    
+    <lastmod>2024-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://p90.icu/2024/m0nesy-pro-settings/</loc>
     
     <lastmod>2024-04-23</lastmod>
     
@@ -75,6 +66,24 @@
   
   <url>
     <loc>https://p90.icu/2024/iem-chengdu-tickets/</loc>
+    
+    <lastmod>2024-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://p90.icu/2024/cs2-update-2024-3-13/</loc>
+    
+    <lastmod>2024-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://p90.icu/2024/copenhagen-2024-stickers/</loc>
     
     <lastmod>2024-04-23</lastmod>
     
@@ -101,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://p90.icu/2024/copenhagen-2024-stickers/</loc>
-    
-    <lastmod>2024-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://p90.icu/2024/lvg-qualified-copenhagen-2024-major/</loc>
     
     <lastmod>2024-04-23</lastmod>
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://p90.icu/2024/donk-pro-settings/</loc>
+    <loc>https://p90.icu/2024/katowice-2024-g2-vs-faze/</loc>
     
     <lastmod>2024-04-23</lastmod>
     
@@ -137,7 +137,34 @@
   </url>
   
   <url>
-    <loc>https://p90.icu/2024/katowice-2024-g2-vs-faze/</loc>
+    <loc>https://p90.icu/2024/cs2-update-2024-2-7/</loc>
+    
+    <lastmod>2024-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://p90.icu/2024/cs2-update-2024-2-8/</loc>
+    
+    <lastmod>2024-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://p90.icu/2024/csco-devlog-2024-1/</loc>
+    
+    <lastmod>2024-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://p90.icu/2024/donk-pro-settings/</loc>
     
     <lastmod>2024-04-23</lastmod>
     
@@ -191,33 +218,6 @@
   </url>
   
   <url>
-    <loc>https://p90.icu/2024/cs2-update-2024-2-7/</loc>
-    
-    <lastmod>2024-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://p90.icu/2024/cs2-update-2024-2-8/</loc>
-    
-    <lastmod>2024-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://p90.icu/2024/csco-devlog-2024-1/</loc>
-    
-    <lastmod>2024-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://p90.icu/2024/cs-rumors-2024-2-7/</loc>
     
     <lastmod>2024-04-23</lastmod>
@@ -254,6 +254,15 @@
   </url>
   
   <url>
+    <loc>https://p90.icu/2023/csco-devlog-2023-05/</loc>
+    
+    <lastmod>2024-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://p90.icu/2023/csco-devlog-2023-08/</loc>
     
     <lastmod>2024-04-23</lastmod>
@@ -264,15 +273,6 @@
   
   <url>
     <loc>https://p90.icu/2023/csco-devlog-2023-03/</loc>
-    
-    <lastmod>2024-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://p90.icu/2023/csco-devlog-2023-05/</loc>
     
     <lastmod>2024-04-23</lastmod>
     
@@ -449,6 +449,13 @@
   </url>
   
   <url>
+    <loc>https://p90.icu/categories/update/</loc>
+    <lastmod>2024-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://p90.icu/categories/announces/</loc>
     <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -457,13 +464,6 @@
   
   <url>
     <loc>https://p90.icu/categories/cs-news/</loc>
-    <lastmod>2024-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://p90.icu/categories/update/</loc>
     <lastmod>2024-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
