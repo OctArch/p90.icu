@@ -83,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://p90.icu/2024/cs2-update-2024-3-13/</loc>
-    
-    <lastmod>2024-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://p90.icu/2024/iem-chengdu-tickets/</loc>
     
     <lastmod>2024-04-27</lastmod>
@@ -102,6 +93,15 @@
   
   <url>
     <loc>https://p90.icu/2024/copenhagen-2024-stickers/</loc>
+    
+    <lastmod>2024-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://p90.icu/2024/cs2-update-2024-3-13/</loc>
     
     <lastmod>2024-04-27</lastmod>
     
@@ -146,15 +146,6 @@
   </url>
   
   <url>
-    <loc>https://p90.icu/2024/donk-pro-settings/</loc>
-    
-    <lastmod>2024-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://p90.icu/2024/katowice-2024-g2-vs-faze/</loc>
     
     <lastmod>2024-04-27</lastmod>
@@ -183,6 +174,15 @@
   
   <url>
     <loc>https://p90.icu/2024/csco-devlog-2024-1/</loc>
+    
+    <lastmod>2024-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://p90.icu/2024/donk-pro-settings/</loc>
     
     <lastmod>2024-04-27</lastmod>
     
@@ -467,6 +467,13 @@
   </url>
   
   <url>
+    <loc>https://p90.icu/categories/update/</loc>
+    <lastmod>2024-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://p90.icu/categories/announces/</loc>
     <lastmod>2024-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -475,13 +482,6 @@
   
   <url>
     <loc>https://p90.icu/categories/cs-news/</loc>
-    <lastmod>2024-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://p90.icu/categories/update/</loc>
     <lastmod>2024-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
