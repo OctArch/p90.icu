@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>2024 年 05 月 01 日更新日志 「Demo 回放修复」</title>
+    <link href="/2024/cs2-update-2024-5-1/"/>
+    <url>/2024/cs2-update-2024-5-1/</url>
+    
+    <content type="html"><![CDATA[<h2 id="杂项"><a href="#杂项" class="headerlink" title="杂项"></a>杂项</h2><ul><li>修正了在比赛结束的地图投票中，游戏会停止接收键盘输入的 BUG。</li><li>修正了 UI 角色总是配备默认手套的 BUG。</li><li>Demo 回放会在结束时暂停，而不是返回主菜单。</li><li>对 Demo 回放进行了小幅优化。</li></ul><h2 id="创意工坊"><a href="#创意工坊" class="headerlink" title="创意工坊"></a>创意工坊</h2><ul><li>为创意工坊提交的地图添加了军备竞赛游戏模式</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>更新日志</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>2024 年 04 月 26 日更新日志 「持枪视角、胶囊打折」</title>
     <link href="/2024/cs2-update-2024-4-25/"/>
     <url>/2024/cs2-update-2024-4-25/</url>

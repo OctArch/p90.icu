@@ -9,8 +9,34 @@
     <atom:link href="https://p90.icu/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>P90.ICU 是一个中文 CS 资讯站，我们更新关于CS2，经典攻势的新闻资讯、选手设置、更新日志等内容。</description>
-    <pubDate>Sat, 27 Apr 2024 03:46:21 GMT</pubDate>
+    <pubDate>Thu, 02 May 2024 03:12:01 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>2024 年 05 月 01 日更新日志 「Demo 回放修复」</title>
+      <link>https://p90.icu/2024/cs2-update-2024-5-1/</link>
+      <guid>https://p90.icu/2024/cs2-update-2024-5-1/</guid>
+      <pubDate>Thu, 02 May 2024 03:08:42 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;杂项&quot;&gt;&lt;a href=&quot;#杂项&quot; class=&quot;headerlink&quot; title=&quot;杂项&quot;&gt;&lt;/a&gt;杂项&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;修正了在比赛结束的地图投票中，游戏会停止接收键盘输入的 BUG。&lt;/li&gt;
+&lt;li&gt;修正了 UI 角色总是配备默认手套的 BUG</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="杂项"><a href="#杂项" class="headerlink" title="杂项"></a>杂项</h2><ul><li>修正了在比赛结束的地图投票中，游戏会停止接收键盘输入的 BUG。</li><li>修正了 UI 角色总是配备默认手套的 BUG。</li><li>Demo 回放会在结束时暂停，而不是返回主菜单。</li><li>对 Demo 回放进行了小幅优化。</li></ul><h2 id="创意工坊"><a href="#创意工坊" class="headerlink" title="创意工坊"></a>创意工坊</h2><ul><li>为创意工坊提交的地图添加了军备竞赛游戏模式</li></ul>]]></content:encoded>
+      
+      
+      <category domain="https://p90.icu/categories/update/">更新日志</category>
+      
+      
+      
+      <comments>https://p90.icu/2024/cs2-update-2024-5-1/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2024 年 04 月 26 日更新日志 「持枪视角、胶囊打折」</title>
@@ -527,32 +553,6 @@
       
       
       <comments>https://p90.icu/2024/donk-pro-settings/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024年02月07日更新日志 「AMD显卡修复」</title>
-      <link>https://p90.icu/2024/cs2-update-2024-2-7/</link>
-      <guid>https://p90.icu/2024/cs2-update-2024-2-7/</guid>
-      <pubDate>Thu, 08 Feb 2024 00:59:10 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;印花&quot;&gt;&lt;a href=&quot;#印花&quot; class=&quot;headerlink&quot; title=&quot;印花&quot;&gt;&lt;/a&gt;印花&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;修正了 AMD 显卡用户无法移动印花的 bug&lt;/li&gt;
-&lt;li&gt;当从 Steam 社区市场和 Steam 库存中检查其他物品时</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="印花"><a href="#印花" class="headerlink" title="印花"></a>印花</h2><ul><li>修正了 AMD 显卡用户无法移动印花的 bug</li><li>当从 Steam 社区市场和 Steam 库存中检查其他物品时，带有自定义偏移的贴纸现在可以正确渲染</li></ul><h2 id="烟雾弹"><a href="#烟雾弹" class="headerlink" title="烟雾弹"></a>烟雾弹</h2><ul><li>各种 bug 修复和调整</li></ul><h2 id="声音"><a href="#声音" class="headerlink" title="声音"></a>声音</h2><ul><li>修复了某些麦克风设置的性能问题</li></ul><h2 id="网络"><a href="#网络" class="headerlink" title="网络"></a>网络</h2><p>cl_interp 不能再直接修改,有些玩家的脚本将此设置为较大的值，从而导致人物回弹。可以通过“缓冲以平滑数据包丢失”设置来调整插值量</p><h2 id="动画"><a href="#动画" class="headerlink" title="动画"></a>动画</h2><ul><li>修复了库克里刀检查动画的问题</li><li>修复了玩家手持燃烧弹时，脚下会出现火焰效果的问题</li></ul><h2 id="UI"><a href="#UI" class="headerlink" title="UI"></a>UI</h2><ul><li>从击杀提示中删除了经验过载图标</li><li>换枪提示现在将显示武器&#x2F;完成名称，而不是自定义名称</li><li>修复了检查手套时切换背景地图的问题</li></ul><h2 id="地图"><a href="#地图" class="headerlink" title="地图"></a>地图</h2><h3 id="殒命大厦"><a href="#殒命大厦" class="headerlink" title="殒命大厦"></a>殒命大厦</h3><ul><li>修复了 A 包点起重机处的世界缺口</li></ul>]]></content:encoded>
-      
-      
-      <category domain="https://p90.icu/categories/update/">更新日志</category>
-      
-      
-      
-      <comments>https://p90.icu/2024/cs2-update-2024-2-7/#disqus_thread</comments>
       
     </item>
     
