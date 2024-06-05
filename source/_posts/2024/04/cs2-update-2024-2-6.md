@@ -3,7 +3,7 @@ title: 2024年02月06日更新日志 「军备竞赛、新武器箱」
 copyright: BY-NC-SA
 date: 2024-02-07 12:49:06
 categories: 更新日志
-index_img: /2024/cs2-update-2024-2-6/a_call_to_arms.png
+index_img: /img/covers/cs_update_log.webp
 ---
 
 > 翻译来自 [CSGO 官方网站](https://www.csgo.com.cn/article/details/20240207/225680.html)

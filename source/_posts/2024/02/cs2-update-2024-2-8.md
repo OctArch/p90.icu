@@ -4,7 +4,7 @@ copyright: BY-NC-SA
 date: 2024-02-09 11:02:06
 tags:
 categories: 更新日志
-index_img: /2024/cs2-update-2024-2-8/banner.webp
+index_img: /img/covers/cs_update_log.webp
 ---
 
 > P90.ICU 祝大家新春快乐！

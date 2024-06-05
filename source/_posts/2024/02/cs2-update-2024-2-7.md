@@ -4,7 +4,7 @@ copyright: BY-NC-SA
 date: 2024-02-08 08:59:10
 tags:
 categories: 更新日志
-index_img: /2024/cs2-update-2024-2-7/banner.webp
+index_img: /img/covers/cs_update_log.webp
 ---
 
 ## 印花
