@@ -13,6 +13,7 @@ timezone: "Asia/Shanghai"
 language: zh-CN
 theme: fluidee
 
+post_asset_folder: true
 marked:
   prependRoot: true
   postAsset: true
@@ -46,7 +47,6 @@ external_link:
   exclude: ""
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
