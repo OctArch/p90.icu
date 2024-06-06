@@ -4,6 +4,44 @@
   
   
   <entry>
+    <title>2024 年 06 月 04 日更新日志</title>
+    <link href="/2024/cs2-update-2024-6-4/"/>
+    <url>/2024/cs2-update-2024-6-4/</url>
+    
+    <content type="html"><![CDATA[<h2 id="杂项"><a href="#杂项" class="headerlink" title="杂项"></a>杂项</h2><ul><li>修复了死亡竞赛和军备竞赛中得分未正确递增的问题。</li><li>修复了一个令玩家的第一人称视角可以穿过天花板的问题。</li><li>修复了 C4 会在地图以外区域卡住的问题。</li><li>各种稳定性改善。</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>更新日志</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2024 年 05 月 29 日更新日志</title>
+    <link href="/2024/cs2-update-2024-5-29/"/>
+    <url>/2024/cs2-update-2024-5-29/</url>
+    
+    <content type="html"><![CDATA[<h2 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h2><ul><li>修复了控制台切换键在优先模式 pick&#x2F;ban 阶段后停止工作的问题。</li><li>现在计分板玩家卡打开的情况下仍能接受键盘输入。</li><li>现在默认情况下忽略手柄输入。 手柄输入属于非 CS 官方支持，但是你可以使用-joy 启动选项恢复相关行为。</li></ul><h2 id="用户界面"><a href="#用户界面" class="headerlink" title="用户界面"></a>用户界面</h2><ul><li>修复了在 bot 接管期间团队选择界面上的玩家和 bot 名字。</li></ul><h2 id="武器饰面"><a href="#武器饰面" class="headerlink" title="武器饰面"></a>武器饰面</h2><ul><li>修复了某些图形配置导致武器饰面变成黑色的问题。</li></ul><h2 id="杂项"><a href="#杂项" class="headerlink" title="杂项"></a>杂项</h2><ul><li>修复了当未连接至 Steam 网络时游戏客户端始终无法重新连接到 CS 网络的问题。</li><li>不再允许被锁定帐户的 Steam 用户在安全的 CS 游戏服务器上玩游戏。</li><li>修复了 Linux 系统中检视模型会过度摆动的问题。</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>更新日志</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>2024 年 05 月 22 日更新日志</title>
     <link href="/2024/cs2-update-2024-5-25/"/>
     <url>/2024/cs2-update-2024-5-25/</url>
@@ -27,7 +65,7 @@
     <link href="/2024/cs2-update-2024-5-23/"/>
     <url>/2024/cs2-update-2024-5-23/</url>
     
-    <content type="html"><![CDATA[<h2 id="游戏玩法"><a href="#游戏玩法" class="headerlink" title="游戏玩法"></a>游戏玩法</h2><ul><li><p>燃烧瓶和燃烧弹的 “火柱 “高度现在会随着时间的推移而降低</p></li><li><p>将安放炸弹但被拆除后的 T 团队奖励从 800 美元降至 600 美元，以减少第一局对后续的影响</p></li><li><p>将 M4A4 的价格从 3100 美元降至 3000 美元</p></li><li><p>对第一人称摄像机移动进行了小幅调整</p></li><li><p>添加了控制台命令 “switchhandsleft “和 “switchhandsright “</p></li><li><p>死亡竞赛奖励武器现在对所有玩家都是一样的，与装备无关</p></li><li><p>燃烧弹（CT）</p></li><li><ul><li>调整了爆炸和火焰的视觉效果</li></ul></li><li><ul><li>缩短了燃烧持续时间</li></ul></li><li><ul><li>缩小了火焰蔓延的覆盖面积</li></ul></li><li><ul><li>价格从 600 美元降至 500 美元</li></ul></li></ul><h2 id="租赁"><a href="#租赁" class="headerlink" title="租赁"></a>租赁</h2><ul><li>当玩家用钥匙打开千瓦箱子时，他们可以选择租用整个千瓦系列收藏品（即箱子中的每件武器，但不包括稀有的特殊物品）一周，而不是从系列中获得一件物品</li><li>租赁期满后，已装备的租赁武器将被替换为已装备的原版武器</li><li>租用的武器不能修改（例如通过贴印花或名称标签）、交易或在 steam 社区市场上出售</li></ul><h2 id="界面"><a href="#界面" class="headerlink" title="界面"></a>界面</h2><ul><li>修复了一个在机器人接管期间 MVP 玩家的名字显示不正确的问题</li><li>修复了一个在购买菜单中点击“全部退款”却只会退回一个闪光弹的问题</li><li>修复了一个在比赛结束时，ESC 键菜单记分板与 TAB 键记分板不一致的问题</li><li>修正了一个关闭记分板后损失奖励，记分板工具提示仍停留在屏幕上的问题</li><li>屏蔽陌生人的 Steam 头像现在将屏蔽用户生成的其他内容，例如名称标签和印花位置</li></ul><h2 id="小鸡"><a href="#小鸡" class="headerlink" title="小鸡"></a>小鸡</h2><ul><li>小鸡有了一些新动画</li><li>小鸡现在可以爬山了</li><li>小鸡现在可以在行走时右转</li></ul><h2 id="用户界面"><a href="#用户界面" class="headerlink" title="用户界面"></a>用户界面</h2><ul><li>对“仓库”的主界面和物品检视背景进行了各种性能改进</li></ul><h2 id="演示"><a href="#演示" class="headerlink" title="演示"></a>演示</h2><ul><li>demo 播放时间轴现在会显示击杀和死亡事件的指示器</li><li>可将 demo 播放切换为 “亮点时刻”，将仅显示当前玩家的击杀和死亡事件</li><li>对 demo 用户界面进行了多项小改动</li><li>修复了 demo 播放崩溃问题</li></ul><h2 id="地图"><a href="#地图" class="headerlink" title="地图"></a>地图</h2><h3 id="殒命大厦"><a href="#殒命大厦" class="headerlink" title="殒命大厦"></a>殒命大厦</h3><ul><li>A 区埋包点旁边增加了一条通往 A 区后方的通道</li><li>移除了 A 区后方与电梯之间的连接通道</li><li>开辟了电梯和脚手架（A 小）之间的通道</li><li>略微调整了 A 区埋包点的大小</li><li>略微调整了出生点的刷新时间</li><li>更改了搭档模式的布局，以跟进 A 区的变化</li></ul><h3 id="行李仓库"><a href="#行李仓库" class="headerlink" title="行李仓库"></a>行李仓库</h3><ul><li>修复了下部传送带上的移动卡顿问题</li><li>降低中央传送带托盘的高度，以帮助打开狙击手的视野</li></ul><h3 id="办公室"><a href="#办公室" class="headerlink" title="办公室"></a>办公室</h3><ul><li>修复了玩家可能射穿多面墙壁的情况</li></ul><h3 id="荒漠迷城"><a href="#荒漠迷城" class="headerlink" title="荒漠迷城"></a>荒漠迷城</h3><ul><li>修复了某些道具上的不良碰撞问题</li><li>修复了宫殿（A 二楼）窗户周围的一些粘性碰撞问题</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="焰火热卖"><a href="#焰火热卖" class="headerlink" title="焰火热卖"></a>焰火热卖</h1><p>今天的更新为 CT 经济注入了一些强心剂，降低了 M4A4 和燃烧弹的价格，并且在炸弹被拆除时，T 方获得的经济奖励也稍微减少了一点。</p><video width="100%" height="auto" autoplay="" playsinline="" controls>    <source src="/2024/cs2-update-2024-5-23/fire.mp4"></video><p>除了价格下调之外，也对燃烧弹本身做了一点调整：更新了爆炸和火焰的视觉效果，同时减少了蔓延范围和持续时间。</p><p>此外在游戏玩法方面，殒命大厦 A 区进行了一些重大改动——现在它也是搭档模式比赛中的主要区域，请务必前去体验。</p><p><img src="/2024/cs2-update-2024-5-23/case.webp"></p><p>所有千瓦系列的粉丝们注意啦！ 现在，当你用钥匙打开一个千瓦武器箱时，你可以选择租用整个系列收藏品一个星期（不包括稀有特殊物品），当然你仍可以选择直接开箱保留单个物品。 在这一周内，你可以随意使用租用的武器，但不能通过贴印花或名称标签对之进行自定义修改。</p><p>今天的更新还包括一些关于 demo 回放的功能改进，更聪明的小鸡，以及一点点的春季清扫——这对于“各种各样 bug 修复”的粉丝来说是个好消息。</p><p>快来看看有什么新内容吧，CS 启动！</p><h2 id="游戏玩法"><a href="#游戏玩法" class="headerlink" title="游戏玩法"></a>游戏玩法</h2><ul><li><p>燃烧瓶和燃烧弹的 “火柱 “高度现在会随着时间的推移而降低</p></li><li><p>将安放炸弹但被拆除后的 T 团队奖励从 800 美元降至 600 美元，以减少第一局对后续的影响</p></li><li><p>将 M4A4 的价格从 3100 美元降至 3000 美元</p></li><li><p>对第一人称摄像机移动进行了小幅调整</p></li><li><p>添加了控制台命令 “switchhandsleft “和 “switchhandsright “</p></li><li><p>死亡竞赛奖励武器现在对所有玩家都是一样的，与装备无关</p></li><li><p>燃烧弹（CT）</p></li><li><ul><li>调整了爆炸和火焰的视觉效果</li></ul></li><li><ul><li>缩短了燃烧持续时间</li></ul></li><li><ul><li>缩小了火焰蔓延的覆盖面积</li></ul></li><li><ul><li>价格从 600 美元降至 500 美元</li></ul></li></ul><h2 id="租赁"><a href="#租赁" class="headerlink" title="租赁"></a>租赁</h2><ul><li>当玩家用钥匙打开千瓦箱子时，他们可以选择租用整个千瓦系列收藏品（即箱子中的每件武器，但不包括稀有的特殊物品）一周，而不是从系列中获得一件物品</li><li>租赁期满后，已装备的租赁武器将被替换为已装备的原版武器</li><li>租用的武器不能修改（例如通过贴印花或名称标签）、交易或在 steam 社区市场上出售</li></ul><h2 id="界面"><a href="#界面" class="headerlink" title="界面"></a>界面</h2><ul><li>修复了一个在机器人接管期间 MVP 玩家的名字显示不正确的问题</li><li>修复了一个在购买菜单中点击“全部退款”却只会退回一个闪光弹的问题</li><li>修复了一个在比赛结束时，ESC 键菜单记分板与 TAB 键记分板不一致的问题</li><li>修正了一个关闭记分板后损失奖励，记分板工具提示仍停留在屏幕上的问题</li><li>屏蔽陌生人的 Steam 头像现在将屏蔽用户生成的其他内容，例如名称标签和印花位置</li></ul><h2 id="小鸡"><a href="#小鸡" class="headerlink" title="小鸡"></a>小鸡</h2><ul><li>小鸡有了一些新动画</li><li>小鸡现在可以爬山了</li><li>小鸡现在可以在行走时右转</li></ul><h2 id="用户界面"><a href="#用户界面" class="headerlink" title="用户界面"></a>用户界面</h2><ul><li>对“仓库”的主界面和物品检视背景进行了各种性能改进</li></ul><h2 id="演示"><a href="#演示" class="headerlink" title="演示"></a>演示</h2><ul><li>demo 播放时间轴现在会显示击杀和死亡事件的指示器</li><li>可将 demo 播放切换为 “亮点时刻”，将仅显示当前玩家的击杀和死亡事件</li><li>对 demo 用户界面进行了多项小改动</li><li>修复了 demo 播放崩溃问题</li></ul><h2 id="地图"><a href="#地图" class="headerlink" title="地图"></a>地图</h2><h3 id="殒命大厦"><a href="#殒命大厦" class="headerlink" title="殒命大厦"></a>殒命大厦</h3><ul><li>A 区埋包点旁边增加了一条通往 A 区后方的通道</li><li>移除了 A 区后方与电梯之间的连接通道</li><li>开辟了电梯和脚手架（A 小）之间的通道</li><li>略微调整了 A 区埋包点的大小</li><li>略微调整了出生点的刷新时间</li><li>更改了搭档模式的布局，以跟进 A 区的变化</li></ul><h3 id="行李仓库"><a href="#行李仓库" class="headerlink" title="行李仓库"></a>行李仓库</h3><ul><li>修复了下部传送带上的移动卡顿问题</li><li>降低中央传送带托盘的高度，以帮助打开狙击手的视野</li></ul><h3 id="办公室"><a href="#办公室" class="headerlink" title="办公室"></a>办公室</h3><ul><li>修复了玩家可能射穿多面墙壁的情况</li></ul><h3 id="荒漠迷城"><a href="#荒漠迷城" class="headerlink" title="荒漠迷城"></a>荒漠迷城</h3><ul><li>修复了某些道具上的不良碰撞问题</li><li>修复了宫殿（A 二楼）窗户周围的一些粘性碰撞问题</li></ul>]]></content>
     
     
     <categories>
