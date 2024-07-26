@@ -9,8 +9,34 @@
     <atom:link href="https://p90.icu/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>P90.ICU 是一个中文 CS 资讯站，我们更新关于CS2，经典攻势的新闻资讯、选手设置、更新日志等内容。</description>
-    <pubDate>Thu, 06 Jun 2024 13:30:38 GMT</pubDate>
+    <pubDate>Fri, 26 Jul 2024 10:24:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>【重要公告】P90.ICU 更新暂缓</title>
+      <link>https://p90.icu/2024/pause-update/</link>
+      <guid>https://p90.icu/2024/pause-update/</guid>
+      <pubDate>Fri, 26 Jul 2024 10:18:59 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;大家好！我是景蓝 Yurik&lt;/p&gt;
+&lt;p&gt;由于我将在这个暑假后升入高三，暂时无力估计 P90.ICU 的更新，因此本站更新将缓慢进行。&lt;/p&gt;
+&lt;p&gt;更多 CS 相关资讯你可以访问 &lt;a href=&quot;https://cs2club.cn/#/&quot;&gt;CS2 中文网&lt;/a&gt;&lt;/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>大家好！我是景蓝 Yurik</p><p>由于我将在这个暑假后升入高三，暂时无力估计 P90.ICU 的更新，因此本站更新将缓慢进行。</p><p>更多 CS 相关资讯你可以访问 <a href="https://cs2club.cn/#/">CS2 中文网</a></p><p>我们一年后再会！</p>]]></content:encoded>
+      
+      
+      <category domain="https://p90.icu/categories/announces/">站点公告</category>
+      
+      
+      
+      <comments>https://p90.icu/2024/pause-update/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2024 年 06 月 04 日更新日志</title>
@@ -517,32 +543,6 @@
       
       
       <comments>https://p90.icu/2024/lvg-qualified-copenhagen-2024-major/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>2024年02月16日更新日志「连续修补」</title>
-      <link>https://p90.icu/2024/cs2-update-2024-2-16/</link>
-      <guid>https://p90.icu/2024/cs2-update-2024-2-16/</guid>
-      <pubDate>Sat, 17 Feb 2024 05:14:26 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h2 id=&quot;杂项&quot;&gt;&lt;a href=&quot;#杂项&quot; class=&quot;headerlink&quot; title=&quot;杂项&quot;&gt;&lt;/a&gt;杂项&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;如果同时按住两个攻击案件足够长的时间，然后在很短的时间内松开，现在可以以 50% 力度投出&lt;/li&gt;
-&lt;li&gt;修正了暂停菜单打开</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="杂项"><a href="#杂项" class="headerlink" title="杂项"></a>杂项</h2><ul><li>如果同时按住两个攻击案件足够长的时间，然后在很短的时间内松开，现在可以以 50% 力度投出</li><li>修正了暂停菜单打开后游戏内 Bot 头像无法正确重载的问题</li><li>修正了 Demo 回放时上一回合按钮的行为</li><li>修正了无法在游戏设置中清除按钮绑定的问题</li><li>改进了遥测显示 HUD 元素的性能</li><li>调整了夜间模式音乐盒集的音量</li><li>稳定性改进</li></ul>]]></content:encoded>
-      
-      
-      <category domain="https://p90.icu/categories/update/">更新日志</category>
-      
-      
-      
-      <comments>https://p90.icu/2024/cs2-update-2024-2-16/#disqus_thread</comments>
       
     </item>
     
