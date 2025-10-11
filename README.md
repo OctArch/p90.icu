@@ -1,4 +1,4 @@
-# P90.ICU | 一个中文 CS 资讯站
+# P90ICU | 一个中文 CS 资讯站
 
 [zh-CN](README.md) | [en](README.en.md)
 
@@ -6,7 +6,7 @@
 
 你可以免费**下载**和**再部署**这个仓库
 
-但根据[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，你**必须**在再部署的站点提供一个指向源站的链接或署名（对于这个仓库，源站是**P90.ICU** ([**https://p90.icu**](https://p90.icu))
+但根据[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，你**必须**在再部署的站点提供一个指向源站的链接或署名（对于这个仓库，源站是**P90ICU** ([**https://p90.icu**](https://p90.icu)) **2025.10.11 - P90.icu 已不属于我**
 
 ## 注意
 
